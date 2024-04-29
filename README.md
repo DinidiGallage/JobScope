@@ -5,9 +5,13 @@ Welcome to JobScope, your go-to online job portal for connecting employers with 
 Features
 
 Job Listings: Browse through a diverse array of job listings posted by reputable employers across various industries.
+
 Advanced Search: Utilize our advanced search filters to find jobs that match your specific criteria, including location, salary range, and job type.
+
 Easy Application: Apply for jobs seamlessly directly through the platform, making the job application process hassle-free.
+
 Profile Management: Create and manage your profile to showcase your skills, experience, and qualifications to potential employers.
+
 Notifications: Stay updated with instant notifications about new job listings, application status updates, and other important information.
 
 Getting Started
