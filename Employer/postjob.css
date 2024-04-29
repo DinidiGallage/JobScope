@@ -1,0 +1,32 @@
+section
+{
+
+	height:800px;
+	width: 1450px;
+	background-color:#C5D4EB;
+	
+}
+
+.apply
+{
+	font-size:20px;
+	font-family:Arial;
+}
+
+input
+{
+	height:40px;
+	width:800px;
+}
+
+.p
+{
+	text-align:right;
+}
+
+#pay
+{
+	font-family:Arial;
+	font-size:20px;
+	padding:10px 40px;
+}

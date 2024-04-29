@@ -1,0 +1,163 @@
+.wrapper
+{
+	height:725px;
+	width:1450px;
+	
+}
+
+header
+{
+	height:200px;
+	width:1450px;
+	background-color:#001A5F;
+}
+section
+{
+	
+	height:1000px;
+	width: 1450px;
+	background-color:#C5D4EB;
+}
+
+.img1
+{
+	height:1000px;
+	width: 1450px;
+	background-image:url("./images/logo2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.a1
+{
+	color:white;
+	text-decoration:none;
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+nav
+{
+	float:left;
+	word-spacing:90px;
+	padding:20px;
+	padding-left:30px;
+}
+
+nav li
+{
+	display:inline-block;
+	line-height:300px;
+}
+
+.logo1
+{
+	float:left;
+	width:250px;
+	height:200px;	
+}
+
+.logo2
+{
+	float:right;
+	width:50px;
+	height:50px;
+	padding-top:145px;
+	padding-right:5px;
+}
+.btn
+{
+	text-align:right;
+	padding-top:170px;
+	padding-right:10px;
+}
+.a2
+{
+	color:black;
+	text-decoration:none;
+}
+
+.btna
+{
+	padding-left:60px;
+}
+footer
+{
+	height:220px;
+	width: 1450px;
+	background-color:#00216D;
+	
+}
+
+.row
+{
+	padding-left:100px;
+	display:flex;
+	flex-wrap:wrap;
+}
+.footer-col
+{
+	width:25%;
+	padding:15px;
+	padding-top:0px;
+}
+
+/*------------------userlogin--------*/
+.img2
+{
+	height:1000px;
+	width: 1450px;
+	background-image:url("./images/logo4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box1
+{
+	height:600px;
+	width:700px;
+	background-color:#CCCCCC;
+	margin:150px auto;
+	opacity:.8;
+	margin-left:700px;
+}
+
+.i1
+{
+	height:40px;
+	width:400px;
+	
+}
+
+.log
+{
+	margin:auto 140px;
+}
+
+/*----------------user-registration------------*/
+
+.box2
+{
+	height:920px;
+	width:700px;
+	background-color:#151515;
+	margin:0px auto;
+	opacity:.8;
+	
+}
+
+
+/*----------------jobs------------*/
+.img3
+{
+
+	height:1000px;
+	width: 1450px;
+	background-image:url('./images/logo3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}

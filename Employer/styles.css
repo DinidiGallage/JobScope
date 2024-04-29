@@ -1,0 +1,57 @@
+body
+ {
+	font-family: Arial, sans-serif;
+	background-color: silver;
+    margin: 0;
+    padding: 0;
+}
+
+main
+{
+	padding: 20px;
+}
+
+.cent
+{
+    text-align: center;   
+}
+.profileIcon
+{
+	padding: 20px;
+    font-size: 30px;
+    width: 100px;
+	text-align: right;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+.submit
+{
+	background-color: #ADD8E6;
+}
+
+.cancel
+{
+	background-color: #ADD8E6;
+}
+
+.pay
+{
+	background-color: #ADD8E6;
+}	
+
+.paymentMethods
+{
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 10px;
+	border-radius: 4px;
+}
+
+.paymentMethods:hover 
+{
+    opacity: 0.7;
+}
