@@ -11,7 +11,9 @@ Profile Management: Create and manage your profile to showcase your skills, expe
 Notifications: Stay updated with instant notifications about new job listings, application status updates, and other important information.
 
 Getting Started
+
 To get started with JobScope, simply sign up for an account as an employer or job seeker. Once registered, you can start exploring job listings, applying for jobs, and managing your profile right away.
 
 Feedback
+
 We value your feedback! If you have any questions, comments, or suggestions regarding JobScope, please don't hesitate to contact us. Your input helps us continuously improve the platform to better serve your needs.
